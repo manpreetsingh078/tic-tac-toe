@@ -15,3 +15,4 @@ This repository contains a simple command-line Tic Tac Toe game implemented in P
    ```sh
    python p2.py
    ```
+   manpreet singh
